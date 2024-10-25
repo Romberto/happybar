@@ -2,7 +2,7 @@
 const Main = () => {
     return (
         <div>
-            <h1>Hello</h1>
+            <img src={'/happybar/img/banner2adeb8f4f50170293e516.jpg'} className="w-full"/>
         </div>
     );
 }
